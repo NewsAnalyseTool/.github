@@ -1,4 +1,6 @@
 # News Analysis Tool
+![image](https://github.com/NewsAnalyseTool/.github/assets/50482788/bc682edf-3dda-497a-91d3-b4584c75000d)
+
 
 ## Overview
 
